@@ -173,7 +173,7 @@ The room is full.</div>
 <div class="ui tiny full goodbye modal">
 <div class="ui icon header">
 <i class="red exclamation triangle icon"></i>
-Eleveda👋 - Goodbye👋</div>
+Eleveda👋 - Bing👋</div>
   <div class="content">
     <p>This project has been created for educational purposes only. The project will end soon. We do not accept encouraging people to take the wrong path. This project was only created to explain how it works.</p>
   </div>
@@ -449,9 +449,9 @@ let serverid = document.querySelector('#serverid input');
 let watchtheroom = document.querySelector('#watchtheroom');
 let fileInput = document.getElementById('file-input');
 
-let reportdraw = document.querySelector('#reportdraw');
-let kickall = document.querySelector('#kickall');
-let spambutton = document.querySelector('#startspam');
+let reportdraw = document.querySelector('#reportdraw');500
+let kickall = document.querySelector('#kickall');500
+let spambutton = document.querySelector('#startspam');500
 let playerList = document.getElementById('playerlist');
 
 let socketList = [];
